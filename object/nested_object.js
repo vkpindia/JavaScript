@@ -16,8 +16,13 @@ const company = {
           employees: ['Charlie', 'David']
         }
     ],
-    isHiring: true  
+    isHiring: true
 }
+
+// delete company.location;
+// delete company['location'];
+
+
 
 // let name = company.name; // TechCorp
 // let city = company.location.city;
