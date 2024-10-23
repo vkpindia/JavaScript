@@ -8,7 +8,7 @@
  * Available operators in jS:
  * 1. Arithmatic Operator(+, -, *, /, %, **)
  * 2. Logical Operator(&&, !, ||)
- * 3. Increment Decrement(--, ++)
+ * 3. Increment-Decrement(--, ++)
  * 4. Bitwise Operator(|, &, ^)
  * 5. Conditional Operator(Ternary operator) (?:)
  * 6. Optional operator(?)
